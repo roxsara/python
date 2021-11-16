@@ -20,6 +20,6 @@ class BankAccount:
         print("The current balance is", self.balance)
 
 
-#revolut = BankAccount()
-#revolut.deposit()
-#revolut.withdrawal()
+revolut = BankAccount()
+revolut.deposit()
+revolut.withdrawal()
